@@ -1,0 +1,30 @@
+.search{
+    margin-left: 15px;
+}
+
+table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-top: 10px;
+  }
+
+.title{
+    background-color: blue;
+    color: white;
+    text-align: center;
+}
+  
+td {
+  border: solid 1px;
+  padding: 0.5em;
+}
+
+th {
+  border: solid 1px;
+  padding: 0.5em;  
+}
+
+.navbar-header{
+    font-size: 20px;
+    font-weight: bold;
+}
